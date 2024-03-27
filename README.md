@@ -20,3 +20,9 @@
 ## SRE
 
 ## QA
+
+
+## Scientist
+### Data Analysis
+
+### LLM
